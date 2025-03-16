@@ -78,3 +78,6 @@ Feel free to contribute by submitting a pull request.
 
 ## 📜 License  
 MIT License  
+##Authors
+R.L.sriyutha[https://github.com/Sriyutha-R-L]
+M.Venkata Sai Koushik[https://github.com/Venkata-sai-koushik-M]
